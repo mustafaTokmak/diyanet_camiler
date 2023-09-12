@@ -2,7 +2,7 @@
 diyanet_camiler 2023 <br />
 
 Crawled from "https://camiler.diyanet.gov.tr"  <br />
-Number of cami : 77467 
+Number of cami : 77467 <br />
 Example cami object: 
 ```
 {
